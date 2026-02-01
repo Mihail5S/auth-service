@@ -1,0 +1,3 @@
+app:
+  jwt:
+    secret: "dev-dev-dev-dev-dev-dev-dev-dev-dev-dev-dev-dev"
